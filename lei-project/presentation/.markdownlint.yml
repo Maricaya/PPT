@@ -1,0 +1,38 @@
+# .markdownlint.yml
+
+# 允许的 HTML 元素和属性
+allowed_elements:
+  - a
+  - img
+  - p
+  - ul
+  - ol
+  - li
+  - h1
+  - h2
+  - h3
+  - h4
+  - h5
+  - h6
+  - blockquote
+  - code
+  - pre
+  - hr
+  - table
+  - thead
+  - tbody
+  - th
+  - td
+allowed_attributes:
+  - a.href
+  - a.title
+  - img.src
+  - img.alt
+  - img.title
+  - table.summary
+  - td.align
+  - th.align
+  - style
+  - span.style
+  - code.class
+  - pre.class
