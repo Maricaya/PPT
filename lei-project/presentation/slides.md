@@ -23,6 +23,8 @@ fonts:
 #==> Code Highlighter
 highlighter: shiki
 
+remoteAssets: false
+
 #==> Slide Info
 title: 褚煦露-简历
 info: |

@@ -3,12 +3,18 @@
 	"scripts": {
 		"dev": "slidev",
 		"build": "slidev build",
-		"export": "slidev export"
+		"export": "slidev export",
+		"v": "slidev export --timeout 60000"
 	},
 	"dependencies": {
 		"@slidev/cli": "*",
 		"@slidev/theme-default": "*",
 		"sass": "^1.34.1"
 	},
-	"name": "presentation"
+	"name": "presentation",
+	"devDependencies": {
+		"playwright-chromium": "^1.37.1",
+		"vite-plugin-remote-assets": "^0.3.2",
+		"vite-plugin-rewrite-all": "^1.0.1"
+	}
 }
