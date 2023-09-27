@@ -350,7 +350,7 @@ __latexindent_temp.pdf
 # Sli.dev
 node_modules
 .DS_Store
-dist
+# dist
 *.local
 index.html
 .remote-assets

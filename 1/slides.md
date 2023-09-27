@@ -20,7 +20,7 @@ title: 褚煦露的自我介绍
 ### 4+ 前端工作经验（抖音、科大讯飞）
 <br>
 
-##### 🎓 北方工业大学（机械）GPA：3.68/4.0  
+##### 🎓 北方工业大学（机械）GPA：3.68/4.0
 
 
 ---
@@ -50,10 +50,10 @@ layout: center
 ---
 
 # 项目经历 - 抖音集团
-<br>
+<!-- <br> -->
 
 ### **乐小活 - 用科技助力灵活就业（2020.12-2022.10）**
-https://pre.letfree.com/ 
+https://pre.letfree.com/
 
 乐小活综合服务平台，赋能**用工平台、税酬机构、自由职业者**。
 
@@ -63,14 +63,14 @@ https://pre.letfree.com/
 />
 
 ---
-layout: center
+layout: tow-cols
 ---
 
 # 项目经历 - 抖音集团
 <br>
 
 ### **电子牵 - 合同签约管理平台（2022.10-至今）**
-https://www.letsign.com/ 
+https://www.letsign.com/
 
 面向企业和个人的一站式文件签署&管理系统平台。
 
@@ -81,20 +81,21 @@ https://www.letsign.com/
 
 ---
 layout: center
---- 
+---
 
 # 项目经历 - 抖音集团
 
 - PC 、移动端，均以 <u>**React**</u> 为核心技术栈，使用了 <u>**React、React Hooks、hox、ByDesign React 和 qiankun**</u> 等技术栈
 
-TODO: 放一个讲解视频【】
+
 - https://juejin.cn/post/6847902224144662541
 - https://juejin.cn/post/6847902217475735560
 - https://juejin.cn/post/6844904201332457486
 - https://juejin.cn/post/6845166891200167943
+
 ---
 layout: center
---- 
+---
 
 ### 研发流程的进化：**物料包** -> 微前端 -> Monorepo
 <br>
@@ -106,7 +107,7 @@ layout: center
 
 ---
 layout: center
---- 
+---
 ### 研发流程的进化：**物料包** -> 微前端 -> Monorepo
 <br>
 
@@ -190,7 +191,7 @@ layout: center
   >   - 业务工程接入 pipeline，lint / ut / e2e 等环节由 pipeline 集群完成校验，本地 lint 辅助保留。
   >    - 单元测试、E2E 卡点接入 pipeline。
 
-  
+
 ---
 layout: center
 ---
@@ -243,7 +244,7 @@ layout: center
 >  - 结构化 readme 文件：
 >    - 减少沟通：新同事先查看 readme 解决疑问
 >    - 提取 readme 模板：
->    - 减少研发过程中的沟通成本，对工程有疑问先看 readme，提升双边开发体验 
+>    - 减少研发过程中的沟通成本，对工程有疑问先看 readme，提升双边开发体验
 >    - 避免口口相传的传递信息，将工程信息以工程为载体做更便捷的沉淀
 >    - 输出 readme 模版，改造时直接 copy 即可
 >  - 微信小程序开发踩坑总结：在小程序开发过程中遇到了一些问题，把它们记录下来，给还没有遇到的同学做个参考。
@@ -297,16 +298,6 @@ class: 'pb-5 :'
 - 使用 gulp.js 打包 CSS，实现 CSS 的按需引入。
 - 负责公共样式的维护，抽离 Less 样式变量，实现主题色自定义配置。
 
----
-layout: center
-class: 'pb-5 :'
----
-# 期待方向
-- 👨‍💻 去美国留学，学习新的技术。
-- 您的招生信息，简直像为我设计的！
-  - DePaul 有非常先进电子教育体系，在课后还能继续看上课的视频，学生可以反复观看，不用担心错过课程内容。
-  - DePaul 有非常好的游戏专业，学生可以接触最新的游戏设计、开发和游戏制作工具。
-  - DePaul 坐落在芝加哥，这里有低房价和丰富的餐厅。
 
 ---
 layout: center
