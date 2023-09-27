@@ -66,9 +66,9 @@ src: ./pages/about-me.md
 src: ./pages/structure.md
 ---
 
----
-src: ./pages/company.md
----
+<!-- --- -->
+<!-- src: ./pages/company.md -->
+<!-- --- -->
 
 ---
 src: ./pages/project.md

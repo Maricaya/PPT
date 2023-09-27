@@ -21,7 +21,7 @@
 		<h1 class="text-white text-2xl text-center font-bold no-mb">
 			thanks!
 		</h1>
-		<h3 class="mt-1">希望明年与您在 DePaul 相见！</h3>
+		<h3 class="mt-1">希望马上能与您在 DePaul 相见！</h3>
 
 		<div class="abs-br mx-6 my-6">
 			<span
@@ -38,7 +38,6 @@
 <style scopde lang="postcss">
 .slidev-layout.end {
 	@apply text-white text-xl tracking-widest h-full text-center grid place-content-center select-none bg-blend-overlay;
-	background-image: url('/media/backgrounds/depaul.jpeg');
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;

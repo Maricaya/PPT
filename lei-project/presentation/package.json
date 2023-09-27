@@ -2,9 +2,8 @@
 	"private": true,
 	"scripts": {
 		"dev": "slidev",
-		"build": "slidev build",
-		"export": "slidev export",
-		"v": "slidev export --timeout 60000"
+		"build": "slidev build --base /PPT/",
+		"export": "slidev export  --timeout 60000"
 	},
 	"dependencies": {
 		"@slidev/cli": "*",
