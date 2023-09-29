@@ -15,7 +15,7 @@ transition: slide-left
 title: 褚煦露的自我介绍
 ---
 
-# 褚煦露 Chu Xulu
+# Chu Xulu 褚煦露
 
 ### 4+ 前端工作经验（抖音、科大讯飞）
 <br>

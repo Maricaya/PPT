@@ -1,10 +1,12 @@
 ---
 layout: image-right-overlay
-class: 'flex flex-col justify-center'
-image: '/media/backgrounds/iflyteck.jpg'
+class: flex flex-col justify-center
+image: /media/backgrounds/iflyteck.jpg
 ---
 
-<h1 class="font-300 no-m">讯飞新高考门户</h1>
+<h1 class="font-300 no-m">iFlyteck Service Platform for Gaokao
+  <br/>
+  讯飞新高考门户</h1>
 <h3 class="no-m">高考服务平台，包括智能排班、智能排考。</h3>
 
 <div class="grid grid-cols-1 gap-2 mt-6">
@@ -33,3 +35,4 @@ image: '/media/backgrounds/iflyteck.jpg'
         </template>
     </IconBox>
 </div>
+

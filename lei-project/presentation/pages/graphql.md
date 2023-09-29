@@ -2,10 +2,10 @@
 layout: full
 ---
 
-<h1 class="no-mb font-300">研发流程的进化</h1>
+<h1 class="no-mb font-300">The Evolution of Front End Development Processes 研发流程的进化</h1>
 <h3 class="font-xs">
-<strong><u>物料包</u></strong>
- -> 微前端 -> Monorepo
+<strong><u>Material Design Systems 物料包</u></strong>
+ -> Micro Frontends 微前端 -> Monorepo
 </h3>
 <br>
 
@@ -15,10 +15,12 @@ layout: full
 <v-clicks>
 
 
-<div class="flex"> 背景 </div>
+<div class="flex"> Background 背景 </div>
 <br>
 <div class="flex gap-1 font-300 text-sm items-start">
-    - <span>在多个项目中很多重复的<strong>代码片段...</strong></span>
+   <span> 
+  Many duplicate code fragments in multiple projects... <br/>
+  在多个项目中很多重复的<strong>代码片段...</strong></span>
 </div>
 
 </v-clicks>
@@ -27,12 +29,15 @@ layout: full
 <div>
 
 <v-clicks>
-<h4 class="font-300 flex"><akar-icons:circle-check-fill class="text-success w-30px" /><strong> 解决方案:物料包 </strong></h4>
+<h4 class="font-300 flex"><akar-icons:circle-check-fill class="text-success w-30px" /><strong> Solution: Material Design Systems 解决方案:物料包 </strong></h4>
 
 <div class="flex flex-col gap-2 mt-2">
 
 <div class="flex gap-1 font-300 text-sm items-center">
-    - <span>使用 <strong>lerna</strong> 与 <strong>dumi</strong> 建立起 PC、移动端的物料包。</span>
+  	 <div>Use <strong>lerna</strong> and <strong>dumi</strong> to establish material packages for PC and mobile devices.
+       <br/>
+       <span>使用 <strong>lerna</strong> 与 <strong>dumi</strong> 建立起 PC、移动端的物料包。</span>
+     </div>
 </div>
 
 ```bash
@@ -61,3 +66,4 @@ material-package/
 </v-clicks>
 </div>
 </div>
+

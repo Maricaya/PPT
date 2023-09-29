@@ -1,11 +1,14 @@
 ---
 layout: image-right-overlay
-class: 'flex flex-col justify-center'
-image: '/media/backgrounds/followme.jpg'
+class: flex flex-col justify-center
+image: /media/backgrounds/followme.jpg
 ---
 
-<h1 class="font-300 no-m">抖音 Follow Me</h1>
-<h3 class="no-m">让非开发人员也可轻松测量和提高您产品的在线使用率。</h3>
+<h1 class="font-300 no-m">Follow Me</h1>
+<h3 class="no-m">
+  A Chrome extension that makes it easy to measure and improve product adoption on the web—without a developer
+  <br/>
+ 让产品运营自己配置用户引导，解放研发。</h3>
 
 <div class="grid grid-cols-1 gap-2 mt-6">
 
@@ -27,3 +30,4 @@ image: '/media/backgrounds/followme.jpg'
 ```
 
 </div>
+

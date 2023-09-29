@@ -2,13 +2,13 @@
 layout: center
 ---
 
-<h1 class="font-600 no-mb">褚煦露</h1>
+<h1 class="font-600 no-mb">Xulu Chu 褚煦露</h1>
 <h3><em>Front-end 前端工程师</em></h3>
 
 <br />
 
 <v-clicks :every="2">
-<p class="font-bold">前端基础 / CSS 工具</p>
+<p class="font-bold">Frontend Fundamentals/CSS Tools 前端基础 / CSS 工具</p>
 <div class="grid grid-cols-8 gap-0 w-5/5">
     <IconBox>
         <template v-slot:default>
@@ -67,7 +67,7 @@ layout: center
         </template>
     </IconBox>
 </div>
-<p class="font-bold">JavaScript 框架 & 库</p>
+<p class="font-bold">JavaScript Frameworks & Libraries 框架 & 库</p>
 <div class="grid grid-cols-8 gap-0 w-5/5">
     <IconBox>
         <template v-slot:default>
@@ -118,7 +118,7 @@ layout: center
         </template>
     </IconBox>
 </div>
-<p class="font-bold">前端模块化</p>
+<p class="font-bold">Front-end Modularization 前端模块化</p>
 <div class="grid grid-cols-8 gap-0 w-5/5">
     <IconBox>
         <template v-slot:default>
@@ -169,7 +169,7 @@ layout: center
         </template>
     </IconBox>
 </div>
-<p class="font-bold">后端技术</p>
+<p class="font-bold">Backend Technology 后端技术</p>
 <div class="grid grid-cols-8 gap-0 w-5/5">
     <IconBox>
         <template v-slot:default>
@@ -218,7 +218,7 @@ layout: center
         <template v-slot:title>
         Docker
         </template>
-    </IconBox>    
+    </IconBox>
         <IconBox>
         <template v-slot:default>
         <logos-nginx class="w-30px h-30px" />

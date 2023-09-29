@@ -35,9 +35,9 @@ info: |
 ---
 
 <div class="center">
-  	<h1 class="font-extrabold" style="line-height: 2rem !important;">褚煦露 Chu Xulu</h1>
-  	<h3 class="font-300" style="opacity: 1;font-size: 12px">4+ 前端工作经验（抖音、科大讯飞）</h3>
-    <h3 class="font-300" style="opacity: 1;font-size: 12px">北方工业大学（机械）GPA：3.68/4.0  </h3>
+  	<h1 class="font-extrabold" style="line-height: 2rem !important;">Xulu Chu 褚煦露</h1>
+  	<h3 class="font-300" style="opacity: 1;font-size: 12px"> four years Front-end work experience(Tiktok Iflyteck) 4年+ 前端工作经验（抖音、科大讯飞）</h3>
+    <h3 class="font-300" style="opacity: 1;font-size: 12px">North China University of Technology (Mechanical Engineering) 北方工业大学（机械）GPA：3.68/4.0  </h3>
 </div>
 
 <div class="abs-bl ml-14 mb-12 flex items-center" >
@@ -78,9 +78,9 @@ src: ./pages/project.md
 <!-- src: ./pages/users.md -->
 <!-- --- -->
 
----
-src: ./pages/architecture.md
----
+<!-- --- -->
+<!-- src: ./pages/architecture.md -->
+<!-- --- -->
 
 <!-- --- -->
 <!-- src: ./pages/techs.md -->
@@ -98,17 +98,17 @@ src: ./pages/process2.md
 src: ./pages/process3.md
 ---
 
----
-src: ./pages/processformat.md
----
+ <!-- --- -->
+<!-- src: ./pages/processformat.md -->
+<!-- ---  -->
 
----
-src: ./pages/processshell.md
----
+<!-- --- -->
+<!-- src: ./pages/processshell.md -->
+<!-- ---  -->
 
----
-src: ./pages/processreadme.md
----
+<!-- --- -->
+<!-- src: ./pages/processreadme.md -->
+<!-- --- -->
 
 ---
 src: ./pages/future-work.md
